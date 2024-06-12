@@ -76,7 +76,8 @@ border: none;
 border-radius: 4px;
 cursor: pointer;}
 .button:focus{color:#404bbf;}
-.button:hover{color:#404bbf;}
+.button:hover{color:#404bbf;
+    background-color:250ms cubic-bezier(0.4, 0, 0.2, 1);}
 .secondsection{padding: 120px 0;}
 .visually-hidden{
     position: absolute;
