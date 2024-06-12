@@ -51,11 +51,16 @@ padding: 0 15px;
 margin: 0 auto;
 }
 .onesection{background-color: #2e2f42;
-padding: 188px 0;}
+padding: 188px 0;
+background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/working-people.jpeg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+max-width: 1440px;}
 .hero{font-size: 56px;
 line-height: 1.07;
 margin: auto;
-max-width: 1440px;
+
 text-align: center;
 letter-spacing: 0.02em;
 color:#ffffff;
