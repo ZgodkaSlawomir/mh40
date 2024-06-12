@@ -58,7 +58,8 @@ margin: auto;
 text-align: center;
 letter-spacing: 0.02em;
 color:#ffffff;
-max-width: 496px;}
+max-width: 496px;
+background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/working\ people.jpeg); obraz tła: gradient liniowy(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpg);;}
 .button{background-color: #4D5AE5;
 font-family: "Roboto", sans-serif;
 margin: auto;
@@ -148,7 +149,7 @@ display: flex;
 column-gap: 24px;
 row-gap: 48px;}
 .fourthsection-li{width: calc((100% - 48px) / 3);}
-.image-list{display: block;box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba (46, 47, 66, 0,08);;}
+.image-list{display: block;box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba (46, 47, 66, 0,08);}
 .fourthsection-app{font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
