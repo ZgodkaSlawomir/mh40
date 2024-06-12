@@ -60,7 +60,7 @@ text-align: center;
 letter-spacing: 0.02em;
 color:#ffffff;
 max-width: 496px;
-background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/working-people.jpeg); background-image:(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/working-people.jpeg);}
+background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/working-people.jpeg);}
 .button{background-color: #4D5AE5;
 font-family: "Roboto", sans-serif;
 margin: auto;
