@@ -210,11 +210,11 @@ height: 40px;}
 .socjal-link{width: 100%;
 height: 100%;
 fill: white;
-background-color: #404bbf;
+background-color: #4d5ae5;
 border-radius: 50%;
 display: flex;
 align-items: center;
 justify-content: center;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
-.socjal-link:focus{background-color: #404bbf;}
+.socjal-link:focus{background-color: #31d0aa;}
 
