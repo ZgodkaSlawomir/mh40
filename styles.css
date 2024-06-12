@@ -203,6 +203,7 @@ color:#FFFFFF;
 letter-spacing: 0.02em;
 margin-bottom: 16px;
 width: 264px;}
+.media{display: flex;}
 .socjal-media{display: flex;
 gap: 16px;}
 .media-list{width: 40px;
