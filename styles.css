@@ -203,9 +203,11 @@ color:#F4F4FD;
 letter-spacing: 0.02em;
 margin-bottom: 16px;
 width: 264px;}
-.media{display: flex;}
+.media{display: flex;
+align-items: center;}
 .socjal-media{display: flex;
-gap: 16px;}
+gap: 16px;
+color:#F4F4FD;}
 .media-list{width: 40px;
 height: 40px;}
 .socjal-link{width: 100%;
