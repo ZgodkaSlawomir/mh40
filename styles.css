@@ -211,8 +211,8 @@ color:#F4F4FD;
 letter-spacing: 0.02em;
 margin-bottom: 16px;
 width: 264px;}
-.media{display: flex;
-align-items: center;}
+.media{
+}
 .socjal-media{display: flex;
 gap: 16px;
 }
