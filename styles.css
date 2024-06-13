@@ -125,7 +125,8 @@ margin-bottom: 8px;}
 .icon-antena{width: 64px;
 height: 64px;}
 .thirdsection{background-color: #F4F4FD;
-    padding: 120px 0;}
+    padding: 120px 0;
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0,16), 0px 2px 1px rgba(46, 47 , 66, 0,08);}
 .thirdsection-nag{font-size: 36px;    
 line-height: 1.11;
 text-align: center;
@@ -217,7 +218,10 @@ gap: 16px;
 }
 .socjal-icon{color:#f4f4fd;}
 .media-list{width: 40px;
-height: 40px;}
+height: 40px;
+align-items: center;
+display: flex;
+justify-content: center;}
 .socjal-text{font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
