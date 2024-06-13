@@ -1,5 +1,13 @@
 *{margin: 0;
 padding: 0;}
+.link-active::after{content: ;
+width: 100%;
+position: absolute;
+left: 0;
+bottom: -1px;
+height: 4px;
+background-color: #404bbf;
+border-radius: 2px;}
 .body{font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #FFFFFF;}
