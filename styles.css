@@ -27,7 +27,8 @@ position:relative;
 gap: 40px;}
 .first-link{padding: 24px 0;
 display: inline-block;
-text-decoration: none;}
+text-decoration: none;
+transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 .first-link:hover{color:#404bbf;}
 .first-link:focus{color:#404bbf;}
 .logo{font-family: "Raleway", sans-serif;
@@ -47,7 +48,8 @@ gap: 40px;}
 text-decoration: none;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color:#434455;}
+color:#434455;
+transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 .address-link:focus{color:#404bbf;}
 .address-link:hover{color:#404bbf;}
 .container{width: 1158px;
