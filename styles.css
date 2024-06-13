@@ -126,7 +126,7 @@ margin-bottom: 8px;}
 height: 64px;}
 .thirdsection{background-color: #F4F4FD;
     padding: 120px 0;
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0,16), 0px 2px 1px rgba(46, 47 , 66, 0,08);}
+    box-shadow 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0,16), 0px 2px 1px rgba(46, 47 , 66, 0,08);}
 .thirdsection-nag{font-size: 36px;    
 line-height: 1.11;
 text-align: center;
@@ -211,10 +211,8 @@ color:#F4F4FD;
 letter-spacing: 0.02em;
 margin-bottom: 16px;
 width: 264px;}
-.media{
-display: flex;
-gap: 16;
-align-content: center;}
+.media{display: flex;
+align-items: center;}
 .socjal-media{display: flex;
 gap: 16px;
 }
