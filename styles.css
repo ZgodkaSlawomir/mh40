@@ -167,7 +167,10 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 text-align: center;}
-.social-icon-3{}
+.social-icon-3{color: #f4f4fd;
+width: 100%;}
+.social-link-3:focus{background-color: #404bbf;}
+.address-link-3:hover{background-color: #404bbf;}
 ul {list-style-type: none;
 margin: 0;
 padding: 0;}
