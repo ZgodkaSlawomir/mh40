@@ -136,7 +136,8 @@ text-transform: capitalize;
 color: #2e2f42;
 }
 .thirdsection-list{display: flex;
-gap: 24px;}
+gap: 24px;
+justify-content: center;}
 .thirdsection-li{background-color: #FFFFFF;
 flex-basis: calc((100% - 72px) / 4);
 border-radius: 0px 0px 4px 4px;}
