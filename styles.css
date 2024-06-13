@@ -1,6 +1,6 @@
 *{margin: 0;
 padding: 0;}
-.link-active::after{content: studio;
+.link-active::after{content: "";
 width: 100%;
 position: absolute;
 left: 0;
