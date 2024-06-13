@@ -212,7 +212,9 @@ letter-spacing: 0.02em;
 margin-bottom: 16px;
 width: 264px;}
 .media{
-}
+display: flex;
+gap: 16;
+align-content: center;}
 .socjal-media{display: flex;
 gap: 16px;
 }
