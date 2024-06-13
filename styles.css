@@ -241,7 +241,8 @@ width: 264px;}
 .media{display: flex;
 align-items: center;}
 .social-media{display: flex;
-gap: 16px;
+gap: 24px;
+justify-content: center;
 }
 .social-icon{color:#f4f4fd;
 width: 100%;
