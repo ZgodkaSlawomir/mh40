@@ -226,7 +226,7 @@ text-transform: uppercase;
 color:#4d5ae5;
 display: inline-block;
 margin-bottom: 16px;}
-.footer-container{display: flex;
+.footer-container{
 align-items: baseline;}
 .footer-div{margin-right: 120px;}
 .footer-description{line-height: 1.5;
