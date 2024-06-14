@@ -215,6 +215,8 @@ row-gap: 48px;}
 .fourthsection-li:hover{box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0,08);}
 .image-list{display: block;
     box-shadow:0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08) ;}
+.fourthsection-li .paragraf:hover{transform: translateY(0%);}  
+.fourthsection-li .paragraf:focus{transform: translateY(0%);}  
 .fourthsection-app{font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -278,6 +280,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#FFFFFF;
 margin-bottom: 16px;}
+.footer-social-media{gap: 16px;}
 .footer-media-list{width: 40px;
     gap: 16px;   
    height: 40px;
