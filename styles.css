@@ -280,7 +280,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#FFFFFF;
 margin-bottom: 16px;}
-.footer-social-media{gap: 16px;}
+.footer-social-media{gap: 16px;
+    justify-content: center;
+display: flex;}
 .footer-media-list{width: 40px;
     gap: 16px;   
    height: 40px;
