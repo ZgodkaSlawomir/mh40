@@ -208,7 +208,7 @@ top: 0;
 height: 100%;
 width: 100%;
 position: absolute;
-transform: translateY(50%);
+transform: translateY(100%);
 transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 .fourthsection-list{flex-wrap: wrap;
 display: flex;
@@ -220,7 +220,7 @@ row-gap: 48px;}
 .image-list{display: block;
     box-shadow:0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08) ;}
 
-.fourthsection-li:hover .paragraf{transform: translateY(0%);}  
+.fourthsection-li:hover .paragraf{transform: translateY(100%);}  
 .fourthsection-app{font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
